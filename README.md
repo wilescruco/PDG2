@@ -1,2 +1,4 @@
 # PDG2
 BANCO PARA PRÁCTICAS DE AUTOMATIZACIÓN INDUSTRIAL, CONTROL AUTOMÁTICO DE UNA BANDA TRANSPORTADORA MEDIANTE UN VARIADOR DE FRECUENCIA CON PLC
+![Completa](https://user-images.githubusercontent.com/90607962/170611782-170d233d-404a-4fec-8a3e-756003fd4c64.png)
+![Mecanismo interno](https://user-images.githubusercontent.com/90607962/170611813-94f6456b-568d-4f5a-a6a9-3b5b6feb0cfd.png)
